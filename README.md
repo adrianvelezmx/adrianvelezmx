@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Adrián Vélez 👋
 
-<!--
-**adrianvelezmx/adrianvelezmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Infrastructure & Self-Hosting Enthusiast**
 
-Here are some ideas to get you started:
+I enjoy building practical software, automating workflows, and exploring technologies that make everyday processes more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm interested in
+- Software Development & Automation
+- Linux Servers & Docker
+- Self-Hosting & Digital Minimalism
+- Open Source Projects
+- Systems Integration & Infrastructure
+
+### Featured Projects
+- **Telegram Media Downloader** — A tool for downloading and organizing Telegram media.
+- **NO SIGNALS** — Telegram automation and signal management.
+- **Inventory Management System** — Inventory tracking and operational reporting.
+- **Material Requisition System** — Workflow automation and inventory integration.
+
+### Connect
+🌐 [Website](https://velez.ltd)
+
+*Building useful things, one project at a time.*
